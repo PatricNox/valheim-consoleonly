@@ -1,0 +1,6 @@
+.vs
+src/libs/*.dll
+src/ConsoleOnly/bin
+src/ConsoleOnly/obj
+src/*.sln
+src/*.Config

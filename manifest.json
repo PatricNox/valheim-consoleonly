@@ -1,0 +1,9 @@
+{
+    "name": "ConsoleOnly",
+    "version_number": "1.0.0",
+    "website_url": "https://discord.gg/kEUCbfySZu",
+    "description": "Only allow Console Players",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+    ]
+}
